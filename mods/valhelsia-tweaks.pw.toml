@@ -1,0 +1,13 @@
+name = "Valhelsia Tweaks"
+filename = "valhelsia_tweaks-forge-1.20.1-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7237daa6a2dc0b77157a2f8bf08f0cb1eeeb4970"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4781848
+project-id = 377624

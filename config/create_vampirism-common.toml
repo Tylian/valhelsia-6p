@@ -1,0 +1,159 @@
+
+["Configs for Create Vampirism Mod"]
+	#Disable all Mob Drops | Default: false
+	disableAllMobDrops = false
+	#[WIP] Disable Human Parts (Leg and Arm Item) | Default: true
+	disableHumanParts = true
+	#The time in ticks that have to pass for the Blood Feeding item to check for the saturation (20 ticks = 1 second) | Default 40
+	#Range: 10 ~ 200
+	blood_feeding_time_check_tick = 40
+	#If the Blood Feeding item should be enabled | default false [WIP ITEM]
+	blood_feeding_enabled = false
+
+	["Configs for Create Vampirism Mod"."Villager Drop Config"]
+		#Disable Villager Drops | Default: false
+		disableVillagerDrops = false
+		#Drop chance for the Brain item from Villagers | Default: 0.1 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		villagerBrainDropChance = 0.1
+		#Drop chance for the Guts item from Villagers | Default: 0.3 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		villagerGutsDropChance = 0.3
+		#Drop chance for the Liver item from Villagers | Default: 0.38 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		villagerLiverDropChance = 0.38
+		#Drop chance for the Lungs item from Villagers | Default: 0.25 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		villagerLungsDropChance = 0.25
+		#Drop chance for the Stomach item from Villagers | Default: 0.43 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		villagerStomachDropChance = 0.43
+		#Drop chance for the Arm item from Villagers | Default: 0.XX (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		villagerArmDropChance = 0.5
+		#Drop chance for the Leg item from Villagers | Default: 0.XX (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		villagerLegDropChance = 0.5
+
+	["Configs for Create Vampirism Mod"."Sheep Drop Config"]
+		#Disable Sheep Drops | Default: false
+		disableSheepDrops = false
+		#Drop chance for the Animal Brain item from Sheep | Default: 0.09 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		sheepBrainDropChance = 0.09
+		#Drop chance for the Animal Guts item from Sheep | Default: 0.24 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		sheepGutsDropChance = 0.24
+		#Drop chance for the Animal Guts item from Sheep | Default: 0.35 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		sheepLiverDropChance = 0.35
+		#Drop chance for the Animal Lungs item from Sheep | Default: 0.2 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		sheepLungsDropChance = 0.2
+		#Drop chance from the Animal Guts item from Sheep | Default: 0.3 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		sheepStomachDropChance = 0.3
+
+	["Configs for Create Vampirism Mod"."Pig Drop Config"]
+		#Disable Pig Drops | Default: false
+		pigDisableDrops = false
+		#Drop chance from the Animal Brain item from Pig | Default: 0.1 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		pigBrainDropChance = 0.1
+		#Drop chance from the Animal Guts item from Pig | Default: 0.25 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		pigGutsDropChance = 0.25
+		#Drop chance from the Animal Liver item from Pig | Default: 0.39 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		pigLiverDropChance = 0.39
+		#Drop chance from the Animal Lungs item from Pig | Default: 0.15 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		pigLungsDropChance = 0.15
+		#Drop chance from the Animal Stomach item from Pig | Default: 0.4 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		pigStomachDropChance = 0.4
+
+	["Configs for Create Vampirism Mod"."Cow Drop Config"]
+		#Disable Cow Drops | Default: false
+		cowDisableDrops = false
+		#Drop chance from the Animal Brain item from Cow | Default: 0.2 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		cowBrainDropChance = 0.2
+		#Drop chance from the Animal Guts item from Cow | Default: 0.35 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		cowGutsDropChance = 0.35
+		#Drop chance from the Animal Liver item from Cow | Default: 0.42 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		cowLiverDropChance = 0.42
+		#Drop chance from the Animal Lungs item from Cow | Default: 0.20 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		cowLungsDropChance = 0.2
+		#Drop chance from the Animal Stomach item from Cow | Default: 0.25 (0.0 = Never, 1.0 = Always)
+		#Range: 0.0 ~ 1.0
+		cowStomachDropChance = 0.25
+
+	["Configs for Create Vampirism Mod"."Logger Config"]
+		#Disable all Loggings (NOT RECOMMENDED)
+		loggerDisableAll = false
+		#Disable all Config logs on World Startup
+		loggerDisableConfigLogs = false
+		#Disable All Drop Loggings from Entities
+		loggerDisableDropLoggings = true
+		#Disable Thank you Log on Server Startup
+		loggerDisableThankYouLog = false
+		#Disable Blood Generator Load and Save Logging (Could lead to spamming in Log)
+		loggerDisableBloodGeneratorLogging = true
+
+	["Configs for Create Vampirism Mod"."Blood Generator Block Config"]
+		#Max Fill level of the Blood Generator Block | Default: 8000
+		#Range: 1000 ~ 16000
+		bloodGeneratorBlockMaxFillAmount = 8000
+		#The Fill Amount of the generates Blood | Default: 5
+		#Range: 1 ~ 100
+		bloodGeneratorBlockFillAmount = 5
+		#The Fill Rate of the Generator in Ticks (40 = in 40 Ticks (2 Seconds) it will be filled Once. 20 = in 20 Ticks (1 Second) filled Once | Default: 40
+		#Range: 10 ~ 4000
+		bloodGeneratorBlockFillRate = 40
+
+	["Configs for Create Vampirism Mod"."Blood Filling Station Block Config"]
+		#The Processing Time of one Bottle in the Blood Filling Station in ticks | Default: 40
+		#Range: 20 ~ 200
+		bloodFillingStationProcessingTime = 40
+		#The Amount of Blood needed to Fill up a Bottle in the Filling Station in mb (Vampirism Blood amount per bottle is 900 so its the Default value) | Default: 900
+		#Range: 250 ~ 1000
+		bloodFillingStationBloodAmountNeeded = 900
+
+	["Configs for Create Vampirism Mod"."Weapon Config"]
+		#The Weapon cooldown for both weapons in Ticks | Default: 10
+		#Range: 5 ~ 200
+		weapon_cooldown = 10
+		#The Max stack amount for the Ammunition Items for both Weapons | Default: 64
+		#Range: 16 ~ 128
+		weapon_ammo_max_stack = 64
+		#The Amount of Rounds inside on Ammo Item | Default: 10
+		#Range: 1 ~ 60
+		weapon_ammo_per_pack = 10
+
+		["Configs for Create Vampirism Mod"."Weapon Config"."Vampire Weapon"]
+			#The Amount of Damage the Vampire Weapon deals multiplied by 0.5 Hearts | Default: 5
+			#Range: 1 ~ 20
+			vampire_weapon_damage = 5
+			#If the Shooter should be Healed when he hit a Target | Default: true
+			vampire_weapon_heal_shooter = true
+			#The Amount of Blood given back to the Player once he hit a Target | Default: 5
+			#Range: 0 ~ 40
+			vampire_weapon_blood_reward = 5
+			#If Vampire player should get a blood reward for left Ammo on Reloading (must be above 3 ammo left in mag) | Default: True
+			vampire_weapon_blood_reward_reload = true
+
+		["Configs for Create Vampirism Mod"."Weapon Config"."Holy Weapon"]
+			#The Amount of Damage the Holy Weapon deals multiplied by 0.5 Hearts | Default: 5
+			#Range: 1 ~ 38
+			holy_weapon_damage = 5
+			#The Amount of Extra damage the Holy Weapon deals on Vampires in the Sunlight | Default: 3
+			#Range: 0 ~ 10
+			holy_weapon_extra_sunlight_damage = 3
+			#The Resistance effect Length in Seconds for the Shooter | Default: 20
+			#Range: 0 ~ 30
+			holy_weapon_resistance_effect_time = 20
+

@@ -1,0 +1,13 @@
+name = "Aequivaleo"
+filename = "aequivaleo-1.0.7-1.20.1-snapshot-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57db5db4fd72322cc5114fa1ed53ff1ae48c408d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5707611
+project-id = 404450

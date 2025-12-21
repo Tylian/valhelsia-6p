@@ -1,0 +1,13 @@
+name = "Cognition (Experience Obelisk)"
+filename = "Cognition-v2.4.9-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36036ee514ba1250d11f3ce2a718fc616ed38646"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7219741
+project-id = 579484

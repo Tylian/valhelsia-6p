@@ -1,0 +1,13 @@
+name = "Dragon Survival Compatibility"
+filename = "dragonsurvival_compatibility-1.20.1-1.3.0-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd9f7d78bca9d9afc94977a3d1841027dd772e4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6607817
+project-id = 885751

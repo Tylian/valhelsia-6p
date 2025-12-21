@@ -1,0 +1,13 @@
+name = "Roughly Enough Items Server Component (REISC)"
+filename = "RoughlyEnoughItems-12.1.785-server-only.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "cbde881a800b5aae9530b2d1b9338be5795de606"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5846924
+project-id = 567899
