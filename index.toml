@@ -2365,6 +2365,10 @@ file = "defaultconfigs/openpartiesandclaims-server.toml"
 hash = "0c6b6f0285ba5a7c592a13b484838c9fc9289b020f4f406ab81b98f9e72f0f23"
 
 [[files]]
+file = "defaultconfigs/pipez-server.toml"
+hash = "6e2752bd91d9cb4d92dcca20a2f66cd330696fc978da871aa15880a6f9ecc125"
+
+[[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
 hash = "a3450e594a0398131da46328ed6f159d2b6a86bc6e55a053fbbb54df9d03d37e"
 
