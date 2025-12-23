@@ -3493,6 +3493,11 @@ hash = "06ef6b491e1e605a9a39fcd2814f686f6f1ecd6fcf971eb85c2e7a260d0dff6e"
 metafile = true
 
 [[files]]
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "d8f52c6109108160c9ca80ae2d1fd03f3b27f4a3196c62ba805928b66482be5b"
+metafile = true
+
+[[files]]
 file = "mods/huntersreturn.pw.toml"
 hash = "23ed3ea061176d39f5a7b80183634aced6d08f0f771d4b3f4ca909777ec99a50"
 metafile = true
