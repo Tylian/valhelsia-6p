@@ -581,6 +581,42 @@ file = "config/amendments-common.toml"
 hash = "7c1cefe60fe783029c5a4f232e6369efff23a3b772b96cc44f51780d1f8d0f1b"
 
 [[files]]
+file = "config/apotheosis/adventure.cfg"
+hash = "56840e4c6a265049bce2846b6c11d0267a6fafa1b72a75b9d7b9a94dc55c5022"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "7b78aadde067ed6ac31b87a0a28702c8d782a0dbc45a55fd7ab678772de3d15e"
+
+[[files]]
+file = "config/apotheosis/ench.cfg"
+hash = "557cc1b6ba1369f5d2459054cc2b9e9f91c58b9cdecb0a3023a911b435b1a9c8"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "cfd0d888a2549b09051ecd3d9bd35a392be82c0767bc62de003e21a6f804e7c4"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "a20cadd3d7168fca2badfd2ef233ee2bcf92135a26b3536c456241a4dfdea053"
+
+[[files]]
+file = "config/apotheosis/names.cfg"
+hash = "aa9929efa2abf2ec27d734c67851b93465580ad965e5127adc4906ad60a58621"
+
+[[files]]
+file = "config/apotheosis/potion.cfg"
+hash = "41cbb8ec035cdefaf47ca7ca71187b41eb8ce67905f825cc05e3c8dd8ba2702e"
+
+[[files]]
+file = "config/apotheosis/spawner.cfg"
+hash = "40913dd340992cb232ed886157673decf3a02a0faa28bb05caf55906da4f7f79"
+
+[[files]]
+file = "config/apotheosis/village.cfg"
+hash = "9c06164bad9a22d779a4986dc231071e7a9d3bc8f1d7d67fa277999e510d2a78"
+
+[[files]]
 file = "config/appleskin-client.toml"
 hash = "4f8278b45def834a2a6c03b9b2c29d821808bdb36e6be39abb4be38e81f863ae"
 
@@ -3994,6 +4030,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "b4ba2f10f2d07b1f265df8eee371090f8219a3f1403a113a16c4522f0c30eccb"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "3e88825cf139806dc93dbe85fd382d74c5289d5e5dc6a84bb13d40b28787920d"
 metafile = true
 
 [[files]]
