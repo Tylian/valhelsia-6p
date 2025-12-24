@@ -3330,7 +3330,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "405c6f9447f29e70146c7c75bd968c91091afb692513473b7454aedaeea12f20"
+hash = "628d5006156ef76351266ad03267b573b9b9f3777b105caee67ce18bbc410146"
 metafile = true
 
 [[files]]
@@ -3579,8 +3579,8 @@ hash = "7142644b6ee70047ec0eec880a44050cf4fd7e42c94f93dbe85ea7630f2d4500"
 metafile = true
 
 [[files]]
-file = "mods/jump-over-fences-forge.pw.toml"
-hash = "119fd9ee2836e0b871393f28739b58cbad7c741e9c5fdb9747867f627a2710a8"
+file = "mods/jump-over-fences.pw.toml"
+hash = "39d576bdf14b906a1e6b11154473f5fb9444919aed049f3841779c9afce65359"
 metafile = true
 
 [[files]]
