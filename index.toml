@@ -3639,11 +3639,6 @@ hash = "3f46c69d55ff321765b0bdd51b2a9854983babc177cac10b3e7eef74a373c3c1"
 metafile = true
 
 [[files]]
-file = "mods/lapis-reserve.pw.toml"
-hash = "92a593afc5f1c188a65c5cf451eeb9bfe0d34f4d5354258e337ada2c0d8b701f"
-metafile = true
-
-[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "bc4c7d42fd94d57b020a43dbb3aa3caaa8395c77bd872f252a8302a39b2256a9"
 metafile = true
@@ -3946,11 +3941,6 @@ metafile = true
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "346314904e0a035d68514e7d9e332d4a63e288abc7fd7bdfaf6d655c511a5916"
-metafile = true
-
-[[files]]
-file = "mods/replication.pw.toml"
-hash = "13ea82f03a637458e03ece5aa5cd82614c545398ea28437d5bbe860f41ae08cb"
 metafile = true
 
 [[files]]
