@@ -3709,6 +3709,11 @@ hash = "0e41cce34411af4bfbbf28984255aa570add09a34281a9651aa055780c27f69c"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "e8e2b582e52ac13e3cd67cb2c8be853003625903c4040585ad60e1dbb0f2c48f"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "3bdd7558ea7cea4588722d139519e94f0d9f8f2dea642aa6db5c0a7f45636d69"
 metafile = true
@@ -3951,6 +3956,26 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "50821203e1ce17c63e191385d20bcbbcdc50558574c37602733b461be05be9f4"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "e16385d040347c49d129400153738064c99a67a37b19c37915efecb7dc00ca0d"
+metafile = true
+
+[[files]]
+file = "mods/rftools-control.pw.toml"
+hash = "8282c1c9592f716e4ff0de099e69e19edf480795ef81256b5718ccbd376e6061"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "dea0789d9c93a2fe76cfc4bfdce9dd8fe2e701f3046faa25e5291253ba9792ce"
 metafile = true
 
 [[files]]
@@ -4281,6 +4306,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8c1d85564af53d61caf23b502b60c494d33450a670093fdd3e2f412368682ecc"
+metafile = true
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "3d3ddb0d9891a8aafec380f88d7358f894a1ed155f406ee549aadbe030799d41"
 metafile = true
 
 [[files]]
