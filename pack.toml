@@ -1,12 +1,12 @@
 name = "Valhelsia 6+"
 author = "Tylian + ValhelsiaTeam"
-version = "6.5.3"
+version = "6.5.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "65569f8c49c576cff2424b582ab0fbc81485d123e048aca91d4dccfabfac0725"
+hash = "e8ad1f16d00481ffecb6d814a9bb9a0cecd2dc1658a7e39eecf337324ec5575f"
 
 [versions]
 forge = "47.4.10"
