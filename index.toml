@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/pages.yml"
+hash = "239d6b2609c8220dec1e402cd215f78bec73741f3df9c0c69b3c9519995cdb8d"
+
+[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "6b3115248f87c339c5ae934d586f48df30f039b0254b4c5f187f7fb17e3901dc"
 
@@ -3926,11 +3930,6 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
-metafile = true
-
-[[files]]
-file = "mods/raised.pw.toml"
-hash = "fb6ba3a993bfba7f5311674811dd3464375e9947884c1d008cd7d630e292f193"
 metafile = true
 
 [[files]]
