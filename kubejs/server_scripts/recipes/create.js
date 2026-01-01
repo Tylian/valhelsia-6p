@@ -7,7 +7,7 @@
 
 /**
  * @file Recipe additions for Create's crafting methods.
- * 
+ *
  * @copyright Valhelsia Inc 2024
  */
 
@@ -38,5 +38,11 @@ ServerEvents.recipes(event => {
   event.recipes.create.mixing([Fluid.of('minecraft:milk 250')], [Fluid.of('minecraft:water 250'), '#valhelsia:nuts']).heated().id(`${ID_PREFIX}mixing/milk_from_nuts`);
   event.recipes.create.mixing('minecraft:paper', [Fluid.of('minecraft:water 500'), '2x #forge:dusts/wood']).id(`${ID_PREFIX}mixing/paper_from_sawdust`);
   // event.recipes.create.mixing([Fluid.of('immersiveengineering:phenolic_resin 250')], [Fluid.of('immersiveengineering:acetaldehyde 250'), 'darkerdepths:resin']).heated().id(`${ID_PREFIX}mixing/phenolic_resin_from_resin`);
+
+  // Crushing
+  event.recipes.create.crushing('create:experience_nugget', 'hostilenetworks:overworld_prediction');
+  event.recipes.create.crushing('2x create:experience_nugget', 'hostilenetworks:nether_prediction');
+  event.recipes.create.crushing('2x create:experience_nugget', 'hostilenetworks:twilight_prediction');
+  event.recipes.create.crushing('3x create:experience_nugget', 'hostilenetworks:end_prediction');
 
 });
