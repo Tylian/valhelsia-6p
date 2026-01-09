@@ -3149,6 +3149,11 @@ hash = "cf8c5f2a139a2571d0d4b8be2b7463255cca721ae4a5741ec71595b7ab530e71"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "eda88d895232fa88c15851fa23225bf51e5ef006505e9a48d437f00635eb03e6"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
@@ -3339,6 +3344,11 @@ hash = "7e2fb62f8f972ee92174e4e7e5d97dfbae675de068b31a7558aad7188a467851"
 metafile = true
 
 [[files]]
+file = "mods/exchangers.pw.toml"
+hash = "265ce1d2d413eeffb72ce4b372b4aa12469894e8bdd9da16e53b1b6c9257b2bb"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0ba2a01934d2de588071ac5a5281dd9a29fc46166fe6b9f99a809a70fe1a6668"
 metafile = true
@@ -3486,6 +3496,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "2e42b3a809ec9b027e23714e01c255fe5111a9d4cd58fad114dd0f2aa75c0d7e"
+metafile = true
+
+[[files]]
+file = "mods/gunpowderlib.pw.toml"
+hash = "fceee3c4da54bb71f2eceede2ea964c05b3e38032504dfc1e5d66b96b6fbc18e"
 metafile = true
 
 [[files]]
@@ -4110,7 +4125,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "4ddff1daf862f7e481a6c30c4cbb4bb32165f2c73cefc908dbf62b18f0d46a56"
+hash = "94880f4c797bec65ef62b0334792a699d4b0db9c4841465785368d3cf62e89e2"
 metafile = true
 
 [[files]]
@@ -4211,6 +4226,11 @@ metafile = true
 [[files]]
 file = "mods/transparent.pw.toml"
 hash = "d8e6a115c32a6878ef9ab83e1947402fe94a77ea0161c70efdb516a68437366a"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "4a8a42c4c7834873a5f64f0f4e07eb46056329b345a1b835d8ea0aff2390fc0e"
 metafile = true
 
 [[files]]
