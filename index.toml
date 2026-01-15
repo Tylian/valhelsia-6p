@@ -3464,6 +3464,11 @@ hash = "6aff69ef1cf999d012e97c990b2e025ac35b5e4b93b8bdbcded989fe09262318"
 metafile = true
 
 [[files]]
+file = "mods/gag.pw.toml"
+hash = "335d4bb97365d11cd40d01d6851442f13902eaed1d2889eb03e11c2d5a05cc81"
+metafile = true
+
+[[files]]
 file = "mods/galosphere.pw.toml"
 hash = "1be92368ec20f1f493c46ad2afdccd1caf3bf605f54862d8badd3f25c9729df0"
 metafile = true
@@ -3556,6 +3561,11 @@ metafile = true
 [[files]]
 file = "mods/incubation.pw.toml"
 hash = "0369534c917c40abad906a7087198ec286f543860a38b68453111a80ca755e2a"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "762fded46cec5b2f224483c9fac2248184d8b88144556021be75a7f3c05c2da8"
 metafile = true
 
 [[files]]
@@ -3791,6 +3801,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "11cd7da81a933aab04f091e2c25447b6d11ebe98bfeed244426a86dd31f3df04"
+metafile = true
+
+[[files]]
+file = "mods/modular-routers.pw.toml"
+hash = "6bcf7a39bad33980cfd720cc78b1e2fe703f7cf0635c00a59948a561c66bf2e0"
 metafile = true
 
 [[files]]
@@ -4141,6 +4156,11 @@ metafile = true
 [[files]]
 file = "mods/sullys-mod.pw.toml"
 hash = "bff02eaf2afc127b0a6b3d1390d2320ee0553b255ff044873a09969b95ba7093"
+metafile = true
+
+[[files]]
+file = "mods/super-factory-manager.pw.toml"
+hash = "033321aebc8bfe8c7630dd187596feb741ae0b6e2e797dda0b785c126ad53c84"
 metafile = true
 
 [[files]]
