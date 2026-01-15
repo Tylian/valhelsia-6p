@@ -2839,6 +2839,11 @@ hash = "04aae524d364de0ec8ac66db6eaff094b9c9b9d69e5de89f11acb2a00ce35261"
 metafile = true
 
 [[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "ea0e1047f953916c926acb92182c550ddfb93d1ac67b490a0d6b3f4627ba80aa"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
