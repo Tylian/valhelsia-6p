@@ -2650,7 +2650,11 @@ hash = "f2e35199baca715ea04fddf0144636c860e6633417598547836fb98cb84a7c21"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/create.js"
-hash = "0a65123fb98ed0dbacbd00457ca3d86594f686f4697a04d193f306d3179afe54"
+hash = "abec9897d8c0dc333987a7ed9b4356e522ad8c505cd012ec624768f79eda93b1"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/functionalstorage.js"
+hash = "0edeb6813cee8f4067b3d54592318a4fa5620116acde0c2f458878014c6ff7bd"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/furniture_fix.js"

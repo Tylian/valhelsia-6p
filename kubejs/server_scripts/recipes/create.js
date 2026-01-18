@@ -45,4 +45,32 @@ ServerEvents.recipes(event => {
   event.recipes.create.crushing('2x create:experience_nugget', 'hostilenetworks:twilight_prediction');
   event.recipes.create.crushing('3x create:experience_nugget', 'hostilenetworks:end_prediction');
 
+  const crushedOres = {
+    'create:crushed_raw_iron': { 'temperature': 800, 'result': 'forge:molten_iron' },
+    'create:crushed_raw_gold': { 'temperature': 700, 'result': 'forge:molten_gold' },
+    'create:crushed_raw_copper': { 'temperature': 500, 'result': 'forge:molten_copper' },
+    'create:crushed_raw_zinc': { 'temperature': 420, 'result': 'forge:molten_zinc' },
+    'create:crushed_raw_osmium': { 'temperature': 975, 'result': 'forge:molten_osmium' },
+    'create:crushed_raw_silver': { 'temperature': 970, 'result': 'forge:molten_silver' },
+    'create:crushed_raw_tin': { 'temperature': 225, 'result': 'forge:molten_tin' },
+    'create:crushed_raw_lead': { 'temperature': 330, 'result': 'forge:molten_lead' },
+    'create:crushed_raw_aluminum': { 'temperature': 425, 'result': 'forge:molten_aluminum' },
+    'create:crushed_raw_uranium': { 'temperature': 830, 'result': 'forge:molten_uranium' },
+    'create:crushed_raw_nickel': { 'temperature': 950, 'result': 'forge:molten_nickel' }
+  };
+
+  for (const [item, { temperature, result }] of Object.entries(crushedOres)) {
+    event.custom({
+      "type": "tconstruct:melting",
+      "ingredient": {
+        "item": item
+      },
+      "result": {
+        "amount": 90,
+        "tag": result
+      },
+      "temperature": temperature,
+      "time": 60
+    });
+  }
 });
