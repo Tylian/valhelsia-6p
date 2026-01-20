@@ -565,6 +565,22 @@ file = "config/allurement-common.toml"
 hash = "fef682729217fc12ad9b791bdaefbe37479958c5f428a8eb4029c9d438bded3a"
 
 [[files]]
+file = "config/almostunified/debug.json"
+hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "40639e8cb9e9ea52b8557c50d29fc06e73e2ad1e7ca27ae5ce8fe2eca2e97188"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "e0bb81cb7269cd8cfa8d8e6fcb40f9395077c6cfe3eb8309ee4b5da0e351644b"
+
+[[files]]
 file = "config/ambientsounds-client.json"
 hash = "3f6f59002db508a4d6fb7cef2e938173bcae215345bbf9d0f9be40878cd8ddd8"
 
@@ -2566,7 +2582,7 @@ hash = "34dc793eec757725e7e424232412cf0325e2a2f853d99462aca574f349293116"
 
 [[files]]
 file = "kubejs/client_scripts/jei_blacklist.js"
-hash = "b792fbd68f9162a9657d7d3606d7a9c368289c19c3398037fd4be6b987e98e19"
+hash = "ba325363165d40f50fc08603cb50d301b350523995d53d686abd522ee03485cd"
 
 [[files]]
 file = "kubejs/client_scripts/jei_create_fix.js"
@@ -2645,35 +2661,35 @@ file = "kubejs/server_scripts/overhaul/recipes/shapeless.js"
 hash = "6619a49213779a64c672e708a7898383d11c17d16c4441e58571af0c3bf303ee"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/botania.js"
-hash = "f2e35199baca715ea04fddf0144636c860e6633417598547836fb98cb84a7c21"
-
-[[files]]
-file = "kubejs/server_scripts/recipes/create.js"
-hash = "abec9897d8c0dc333987a7ed9b4356e522ad8c505cd012ec624768f79eda93b1"
-
-[[files]]
-file = "kubejs/server_scripts/recipes/functionalstorage.js"
-hash = "0edeb6813cee8f4067b3d54592318a4fa5620116acde0c2f458878014c6ff7bd"
-
-[[files]]
-file = "kubejs/server_scripts/recipes/furniture_fix.js"
-hash = "eb197f0e246bea95678c2f338118be2db5ecfb29f59224bc521dc18e12c692be"
-
-[[files]]
-file = "kubejs/server_scripts/recipes/immersiveengineering.js"
-hash = "632f5084061c2b5596bc9cc0332cec7eeb4c989383d2fa9498053f4cb7cc065f"
-
-[[files]]
-file = "kubejs/server_scripts/recipes/integrateddynamics.js"
-hash = "c96a363f5705900ac2c4656e1984ca0ffa53cad47cdf2229e5910a4db583aee4"
-
-[[files]]
 file = "kubejs/server_scripts/recipes/kiln.js"
 hash = "0d3644efa10c302df48636783425ad2ac4bbf8b558ede21434280cdef93de13b"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/mekanism.js"
+file = "kubejs/server_scripts/recipes/mods/botania.js"
+hash = "f2e35199baca715ea04fddf0144636c860e6633417598547836fb98cb84a7c21"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/mods/create.js"
+hash = "abec9897d8c0dc333987a7ed9b4356e522ad8c505cd012ec624768f79eda93b1"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/mods/functionalstorage.js"
+hash = "0edeb6813cee8f4067b3d54592318a4fa5620116acde0c2f458878014c6ff7bd"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/mods/furniture_fix.js"
+hash = "eb197f0e246bea95678c2f338118be2db5ecfb29f59224bc521dc18e12c692be"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/mods/immersiveengineering.js"
+hash = "632f5084061c2b5596bc9cc0332cec7eeb4c989383d2fa9498053f4cb7cc065f"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/mods/integrateddynamics.js"
+hash = "c96a363f5705900ac2c4656e1984ca0ffa53cad47cdf2229e5910a4db583aee4"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/mods/mekanism.js"
 hash = "2408c8f9d52287d30ca5fed12cbf3cb02f088572b863ee365c784264d0b464a3"
 
 [[files]]
@@ -2682,15 +2698,15 @@ hash = "d8449e3a7c5a6a891a9bbd3d0bbace5b60667cb336730a4e5e3e0b33581c6c18"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/pressing.js"
-hash = "3d5f12653883ce88d4429253a819b9b4cfa437698455d1f7fae6bd8d1d1d1bb8"
+hash = "06030d85b8ba89fe66f914919d1d481eea2ae64a2775c091f626942a778b505f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "ac0a00175a5e8b6e9f8537be629223a2bef215212cd40866d7770c1fbf72da65"
+hash = "d46792918390f405c585363db9bba3ec313d3a8ad4ddd83d679416cc7eb4535f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
-hash = "178b796d2e072f38dbba84adc5bd5dad0c7096624ef33e63975353270ca6acdf"
+hash = "3f6b315de0e4c8011f4bc74171ca05b074cd37d6a7bea94f2bbf72d544441ab3"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shaped.js"
@@ -2785,6 +2801,11 @@ metafile = true
 [[files]]
 file = "mods/almanac-lib.pw.toml"
 hash = "067c72c78318b03c01b6d35aff74135ef1c969425e471efe777dce7a174c7005"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "8e9376087852491eb52037279506fefc45e174303530630e8b8afa571b1bd697"
 metafile = true
 
 [[files]]
