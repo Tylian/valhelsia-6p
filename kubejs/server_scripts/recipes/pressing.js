@@ -166,10 +166,8 @@ ServerEvents.recipes(event => {
   press('ad_astra:ostrum_plate', '#forge:ingots/ostrum');
 
   // Create
-  press('create:brass_sheet', '#forge:ingots/brass');
-
-  // Create Crafts & Additions
-  press('createaddition:zinc_sheet', '#forge:ingots/zinc');
+  // press('create:brass_sheet', '#forge:ingots/brass');
+  // press('createaddition:zinc_sheet', '#forge:ingots/zinc');
 
   // Create Deco
   // press('createdeco:cast_iron_sheet', '#forge:ingots/cast_iron');
@@ -178,18 +176,29 @@ ServerEvents.recipes(event => {
   // Dark Utilities
   press('darkutils:blank_plate', '#darkutils:dark_stones');
 
-  // Immersive Engineering
-  press('immersiveengineering:plate_aluminum', '#forge:ingots/aluminum');
-  press('immersiveengineering:plate_constantan', '#forge:ingots/constantan');
-  press('immersiveengineering:plate_copper', '#forge:ingots/copper');
-  press('immersiveengineering:plate_electrum', '#forge:ingots/electrum');
-  press('immersiveengineering:plate_gold', '#forge:ingots/gold');
-  press('immersiveengineering:plate_iron', '#forge:ingots/iron');
-  press('immersiveengineering:plate_lead', '#forge:ingots/lead');
-  press('immersiveengineering:plate_nickel', '#forge:ingots/nickel');
-  press('immersiveengineering:plate_silver', '#forge:ingots/silver');
-  press('immersiveengineering:plate_steel', '#forge:ingots/steel');
-  press('immersiveengineering:plate_uranium', '#forge:ingots/uranium');
+  [
+    'aluminum',
+    'constantan',
+    'copper',
+    'electrum',
+    'gold',
+    'iron',
+    'lead',
+    'nickel',
+    'silver',
+    'steel',
+    'uranium',
+    //'brass',
+    //'zinc'
+  ].forEach(material => {
+    let plate = AlmostUnified.getPreferredItemForTag(`forge:plates/${material}`);
+    console.log(`plate for: ${material} -> ${plate}`);
+    press(plate, `#forge:ingots/${material}`);
+  });
+
+  // For some reason zinc is not showing up in AlmostUnified.
+  press('create:brass_sheet', '#forge:ingots/brass');
+  press('createaddition:zinc_sheet', '#forge:ingots/zinc');
 
   // PneumaticCraft
   press('pneumaticcraft:plastic', '#pneumaticcraft:plastic_bricks');

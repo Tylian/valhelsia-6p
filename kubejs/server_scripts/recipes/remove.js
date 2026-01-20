@@ -83,17 +83,17 @@ ServerEvents.recipes(event => {
     //'ecologics:moss_block',
 
     // Embers
-    'embers:lead_ingot_to_block',
-    'embers:lead_block_to_ingot',
-    'embers:lead_nugget_to_ingot',
-    'embers:lead_ingot_to_nugget',
-    'embers:lead_raw_block_to_raw',
-    'embers:lead_raw_to_raw_block',
-    'embers:silver_block_to_ingot',
-    'embers:silver_nugget_to_ingot',
-    'embers:silver_ingot_to_nugget',
-    'embers:silver_raw_block_to_raw',
-    'embers:silver_raw_to_raw_block',
+    // 'embers:lead_ingot_to_block',
+    // 'embers:lead_block_to_ingot',
+    // 'embers:lead_nugget_to_ingot',
+    // 'embers:lead_ingot_to_nugget',
+    // 'embers:lead_raw_block_to_raw',
+    // 'embers:lead_raw_to_raw_block',
+    // 'embers:silver_block_to_ingot',
+    // 'embers:silver_nugget_to_ingot',
+    // 'embers:silver_ingot_to_nugget',
+    // 'embers:silver_raw_block_to_raw',
+    // 'embers:silver_raw_to_raw_block',
 
     // Farmer's Delight
     //'farmersdelight:cake_from_milk_bottle', // Redundant: Same as Neapolitan's recipe.
@@ -118,35 +118,35 @@ ServerEvents.recipes(event => {
     'immersiveengineering:smelting/ingot_uranium_from_blasting2',
     
     // Redundant IE Metal Recipes (either duplicate or replaced)
-    'immersiveengineering:crafting/ingot_lead_to_storage_lead',
-    'immersiveengineering:crafting/ingot_uranium_to_storage_uranium',
-    'immersiveengineering:crafting/ingot_silver_to_storage_silver',
-    'immersiveengineering:crafting/ingot_steel_to_storage_steel',
+    // 'immersiveengineering:crafting/ingot_lead_to_storage_lead',
+    // 'immersiveengineering:crafting/ingot_uranium_to_storage_uranium',
+    // 'immersiveengineering:crafting/ingot_silver_to_storage_silver',
+    // 'immersiveengineering:crafting/ingot_steel_to_storage_steel',
 
-    'immersiveengineering:crafting/storage_lead_to_ingot_lead',
-    'immersiveengineering:crafting/storage_uranium_to_ingot_uranium',
-    'immersiveengineering:crafting/storage_steel_to_ingot_steel',
+    // 'immersiveengineering:crafting/storage_lead_to_ingot_lead',
+    // 'immersiveengineering:crafting/storage_uranium_to_ingot_uranium',
+    // 'immersiveengineering:crafting/storage_steel_to_ingot_steel',
 
-    'immersiveengineering:crafting/nugget_copper_to_copper_ingot',
-    'immersiveengineering:crafting/nugget_lead_to_ingot_lead',
-    'immersiveengineering:crafting/nugget_uranium_to_ingot_uranium',
-    'immersiveengineering:crafting/nugget_silver_to_ingot_silver',
-    'immersiveengineering:crafting/nugget_steel_to_ingot_steel',
+    // 'immersiveengineering:crafting/nugget_copper_to_copper_ingot',
+    // 'immersiveengineering:crafting/nugget_lead_to_ingot_lead',
+    // 'immersiveengineering:crafting/nugget_uranium_to_ingot_uranium',
+    // 'immersiveengineering:crafting/nugget_silver_to_ingot_silver',
+    // 'immersiveengineering:crafting/nugget_steel_to_ingot_steel',
 
-    'immersiveengineering:crafting/copper_ingot_to_nugget_copper',
-    'immersiveengineering:crafting/ingot_lead_to_nugget_lead',
-    'immersiveengineering:crafting/ingot_uranium_to_nugget_uranium',
-    'immersiveengineering:crafting/ingot_steel_to_nugget_steel',
+    // 'immersiveengineering:crafting/copper_ingot_to_nugget_copper',
+    // 'immersiveengineering:crafting/ingot_lead_to_nugget_lead',
+    // 'immersiveengineering:crafting/ingot_uranium_to_nugget_uranium',
+    // 'immersiveengineering:crafting/ingot_steel_to_nugget_steel',
 
-    'immersiveengineering:crafting/raw_block_lead_to_raw_lead',
-    'immersiveengineering:crafting/raw_block_uranium_to_raw_uranium',
+    // 'immersiveengineering:crafting/raw_block_lead_to_raw_lead',
+    // 'immersiveengineering:crafting/raw_block_uranium_to_raw_uranium',
 
-    'immersiveengineering:crafting/raw_lead_to_raw_block_lead',
-    'immersiveengineering:crafting/raw_uranium_to_raw_block_uranium',
+    // 'immersiveengineering:crafting/raw_lead_to_raw_block_lead',
+    // 'immersiveengineering:crafting/raw_uranium_to_raw_block_uranium',
 
     // Mekanism
     'mekanism:charcoal',
-    'mekanism:storage_blocks/charcoal',
+    // 'mekanism:storage_blocks/charcoal',
     'mekanism:processing/uranium/ingot/from_block',
     'mekanism:processing/uranium/ingot/from_ore_blasting',
     'mekanism:processing/uranium/ingot/from_ore_smelting',
@@ -188,7 +188,7 @@ ServerEvents.recipes(event => {
     'nourished_nether:smelt_soul_sand', // Conflicts with Scoria smelting.
 
     // PneumaticCraft: Repressurized
-    'pneumaticcraft:copper_nugget', // Duplicate Recipe.
+    // 'pneumaticcraft:copper_nugget', // Duplicate Recipe.
     'pneumaticcraft:speed_upgrade', // Broken by KubeJS, fixed with a replacement recipe.
     'pneumaticcraft:speed_upgrade_from_glycerol', // Broken by KubeJS, fixed with a replacement recipe.
 
