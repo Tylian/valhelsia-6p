@@ -2578,7 +2578,7 @@ hash = "09d977d4fddab5d3b35e0dea89eaa0ef4715a17470c96924850587277e559cbd"
 
 [[files]]
 file = "kubejs/client_scripts/item_tooltip.js"
-hash = "34dc793eec757725e7e424232412cf0325e2a2f853d99462aca574f349293116"
+hash = "d72cbff0022d1ff1840de7af5cdedb77837b772a02c6ed37326374e04b1b3b41"
 
 [[files]]
 file = "kubejs/client_scripts/jei_blacklist.js"
@@ -2690,7 +2690,7 @@ hash = "c96a363f5705900ac2c4656e1984ca0ffa53cad47cdf2229e5910a4db583aee4"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/mods/mekanism.js"
-hash = "2408c8f9d52287d30ca5fed12cbf3cb02f088572b863ee365c784264d0b464a3"
+hash = "3a17a7fcd972dc190c7a591773c8f14cc839dd3497a30e34352783571a70939f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/polishing.js"
@@ -2743,6 +2743,10 @@ hash = "a764a22b5828633b3b3fa8ce31dab799e9a78796528a71eeb7508e8692dd328d"
 [[files]]
 file = "kubejs/server_scripts/tags/item_tags_remove.js"
 hash = "892c82516726bde69a1fc83c7e7291c9deb1b72747786c3a5d78db6b83487d56"
+
+[[files]]
+file = "kubejs/startup_scripts/mekanism.js"
+hash = "86ed5095f3c9f207c158d1990ef09f8dc811a29eaa776ab1f8077ea537d5628a"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
