@@ -2884,7 +2884,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -3129,7 +3129,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -3623,8 +3623,13 @@ hash = "0369534c917c40abad906a7087198ec286f543860a38b68453111a80ca755e2a"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing-souls.pw.toml"
+hash = "81c4020c4f7a58fd3c3042c1c6dc47250e947059cf4feadc2ca1de1dd0a6c594"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing.pw.toml"
-hash = "762fded46cec5b2f224483c9fac2248184d8b88144556021be75a7f3c05c2da8"
+hash = "42a94664fb026e7fb517bf0f3134cf04a2bb6f9695e7e9613f9edf71cb86999a"
 metafile = true
 
 [[files]]
@@ -3809,7 +3814,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "0e41cce34411af4bfbbf28984255aa570add09a34281a9651aa055780c27f69c"
+hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
 metafile = true
 
 [[files]]
@@ -3845,6 +3850,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "bd52722f1417e24a4acee3bf4fc59c5bf074627f7aaaaf8fd33056c7ef170bc3"
+metafile = true
+
+[[files]]
+file = "mods/mifa.pw.toml"
+hash = "cfb82bae095c53aa5f9979db4e7a6e802f470b92b36a4ec99ff78f32f7e70ef7"
 metafile = true
 
 [[files]]
@@ -3918,6 +3928,11 @@ hash = "7bb01abc93a90da48ae8452f501ba60e32c468438c0f864e6bc7ef1b5746c712"
 metafile = true
 
 [[files]]
+file = "mods/neoauth.pw.toml"
+hash = "dbf9f7d8a3460cc820854358f2e8b9afc6e06bb7017f7cdff08b2d453eacbb82"
+metafile = true
+
+[[files]]
 file = "mods/netherific.pw.toml"
 hash = "7e0b6ce034de9d4f53b11a470ebe3dd2cd6eb3d4746a4966348b9461c8277a3b"
 metafile = true
@@ -3930,6 +3945,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true
 
 [[files]]
@@ -4028,6 +4048,11 @@ hash = "f79cb80b6ea599fe4ca9404465277ff7edf25118976170c28827590febfcee7a"
 metafile = true
 
 [[files]]
+file = "mods/productivebees.pw.toml"
+hash = "08d286c82ca28323437d5dc8c6cc3d38ca6fcf8a66f56cb7e0005b639c90bad7"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
 metafile = true
@@ -4105,11 +4130,6 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "fe6078ab5a7188a927df85ac72a8226af625dabcc9325335352ff8d6b5a1ed09"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items-server-component.pw.toml"
-hash = "8cf72c71e17a52ae963749882c6cd6cdb33ff1ed1926b31006f80af584b35879"
 metafile = true
 
 [[files]]
@@ -4294,7 +4314,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "f9615397542fe44fa1ee41c8ecbac25aaf59875c86a8fd65a853d1b2edb9c48e"
+hash = "74a64acbd2275c16e47fb17e74bcd431779674cefa1f54f67f15b4d9b955aec7"
 metafile = true
 
 [[files]]
@@ -4304,7 +4324,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
+hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
 metafile = true
 
 [[files]]
