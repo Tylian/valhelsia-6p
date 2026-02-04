@@ -2685,6 +2685,10 @@ file = "kubejs/server_scripts/recipes/mods/immersiveengineering.js"
 hash = "632f5084061c2b5596bc9cc0332cec7eeb4c989383d2fa9498053f4cb7cc065f"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/mods/industrialforegoing.js"
+hash = "bdd5b0133a808d5adbab4653f29abd69f28d0e47d05df4381a16315d939a5d68"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/mods/integrateddynamics.js"
 hash = "c96a363f5705900ac2c4656e1984ca0ffa53cad47cdf2229e5910a4db583aee4"
 
