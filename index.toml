@@ -2686,7 +2686,7 @@ hash = "632f5084061c2b5596bc9cc0332cec7eeb4c989383d2fa9498053f4cb7cc065f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/mods/industrialforegoing.js"
-hash = "bdd5b0133a808d5adbab4653f29abd69f28d0e47d05df4381a16315d939a5d68"
+hash = "9e511fb2744aa143af064826bd3f52a3180fce1b44496f5781681183c17eac6c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/mods/integrateddynamics.js"
